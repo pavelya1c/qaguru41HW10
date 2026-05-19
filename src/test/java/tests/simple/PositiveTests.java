@@ -45,19 +45,5 @@ public class PositiveTests {
         assertTrue(true);
     }
 
-    @Test
-    public void testPositive8() {
-        assertTrue(true);
-    }
-
-    @Test
-    public void testPositive9() {
-        assertTrue(true);
-    }
-
-    @Test
-    public void testPositive10() {
-        assertTrue(true);
-    }
 
 }
